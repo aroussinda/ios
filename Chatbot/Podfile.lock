@@ -1,0 +1,18 @@
+PODS:
+  - ServiceSDK/Chat (238.0.0):
+    - ServiceSDK/Core
+  - ServiceSDK/Core (238.0.0)
+
+DEPENDENCIES:
+  - ServiceSDK/Chat
+
+SPEC REPOS:
+  https://github.com/goinstant/pods-specs-public:
+    - ServiceSDK
+
+SPEC CHECKSUMS:
+  ServiceSDK: 5c568d65557959b2aa4f931f62e2dd394b946151
+
+PODFILE CHECKSUM: a702fe36a8b790ecf5ed8680e7bcd8fd4ccf2359
+
+COCOAPODS: 1.11.3

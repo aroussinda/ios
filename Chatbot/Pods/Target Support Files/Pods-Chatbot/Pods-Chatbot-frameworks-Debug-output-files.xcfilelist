@@ -1,0 +1,2 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ServiceChat.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ServiceCore.framework

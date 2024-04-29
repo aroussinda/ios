@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="18154" systemVersion="20D91" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Pari" representedClassName="Pari" syncable="YES" codeGenerationType="class">
+        <attribute name="cote" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="nameAway" optional="YES" attributeType="String"/>
+        <attribute name="nameHome" optional="YES" attributeType="String"/>
+        <attribute name="time" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Pari" positionX="-63" positionY="-18" width="128" height="89"/>
+    </elements>
+</model>

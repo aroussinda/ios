@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Chatbot/Pods-Chatbot-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/ServiceSDK/Chat/ServiceChat.framework/ServiceChat
+${PODS_XCFRAMEWORKS_BUILD_DIR}/ServiceSDK/Core/ServiceCore.framework/ServiceCore

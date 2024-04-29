@@ -1,0 +1,2 @@
+${PODS_XCFRAMEWORKS_BUILD_DIR}/ServiceSDK/Chat/ServiceChat.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/ServiceSDK/Core/ServiceCore.framework

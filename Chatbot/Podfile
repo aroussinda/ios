@@ -1,0 +1,6 @@
+source 'https://github.com/goinstant/pods-specs-public'
+
+# To use Chat
+target 'Chatbot' do
+    pod 'ServiceSDK/Chat'
+end
